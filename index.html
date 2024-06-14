@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Library - Book Sorting Visualizer</title>
+  <link rel="stylesheet" href="main.css">
+  <script src="main.js" defer></script>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap" rel="stylesheet">
+  
+  
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.getElementById('pathfinder-button').addEventListener('click', function() {
+        window.location.href = 'Pathfinder.html';  /* Add file Pathfinder to direct to new tab*/
+      });
+      
+    });
+    
+  </script>
+</head>
+<body>
+
+  <header>
+    <h1>
+      Shortest PathFinder  <br> Visualizer
+    </h1>    
+    <div class="vertical-line1"></div>
+    <div class="vertical-line2"></div>
+  </header>
+
+  <section id="pathfinder" class="hidden">
+    <div class="sort-info">
+      <div class="sort-name">Pathfinder</div>
+      <div class="sort-definition">
+        Pathfinder is a tool or concept used to find the best path between two points, considering obstacles and constraints. It involves algorithms and techniques for efficient navigation or routing.
+      </div>
+      <a class="try-link" id="pathfinder-button" href="./src/graph/index.html">Try Pathfinder</a>
+    </div>
+    <div class="image-container">
+      <img src="./image/pathfinder.png" alt="Pathfinder Image">
+    </div>
+  </section> 
+  
+  <a id="back-to-top" href="#header">
+    <img src="./image/up-arrow.png" alt="Up Arrow">
+    <span class="tooltip">Back to top</span>
+  </a>  
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
