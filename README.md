@@ -1,5 +1,6 @@
-# Algorithms-Visualizer
-This is a project made for the Data Structures and Algorithms course in International University with main the purpose of visualizing some algorithms. The project is finished with our initial intentions completed.
+
+# Shortest-Pathfinder-Visualizer
+
 
 ## Pre-requisites
 This project is made with:
@@ -7,5 +8,6 @@ This project is made with:
 + TypeScript
 
 
-# Shortest-Pathfinder-Visualizer
-# Shortest-Pathfinder-Visualizer
+will update soon...
+
+
