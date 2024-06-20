@@ -1,7 +1,7 @@
 # Shortest Pathfinder Visualizer
 
 ## Live Demo
-Check out the live demo [here](#).
+Check out the live demo [https://deshdeepakkant.github.io/Shortest-Pathfinder-Visualizer/](#).
 
 ## Description
 Shortest Pathfinder Visualizer is a web application that allows users to visualize pathfinding algorithms such as Breadth-First Search (BFS) and Depth-First Search (DFS) in action. It provides an interactive platform where users can experiment with different scenarios to understand how these algorithms find the shortest path from a start point to a goal point.
@@ -47,13 +47,6 @@ Both algorithms are essential in various applications such as pathfinding, netwo
 ![logo](https://github.com/DeshDeepakKant/Shortest-Pathfinder-Visualizer/blob/main/image/Screenshot%20from%202024-06-20%2014-15-53.png?raw=true)
 ![logo](https://github.com/DeshDeepakKant/Shortest-Pathfinder-Visualizer/blob/main/image/Screenshot%20from%202024-06-20%2014-15-56.png)
 ![logo](https://github.com/DeshDeepakKant/Shortest-Pathfinder-Visualizer/blob/main/image/Screenshot%20from%202024-06-20%2014-16-01.png?raw=true)
-![logo]()
-![logo]()
-
-
-
-
-
 
 
 
